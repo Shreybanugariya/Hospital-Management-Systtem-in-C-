@@ -1,0 +1,14 @@
+F:\My stuff\Projects\Clinic_System\bin\Debug\Clinic_System.exe.config
+F:\My stuff\Projects\Clinic_System\bin\Debug\Clinic_System.exe
+F:\My stuff\Projects\Clinic_System\bin\Debug\Clinic_System.pdb
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.csprojAssemblyReference.cache
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.frmAdminDashboard.resources
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.Properties.Resources.resources
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.csproj.GenerateResource.cache
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.csproj.CoreCompileInputs.cache
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.exe
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.pdb
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.frmUserDashboard.resources
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.UI.frmUsers.resources
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.UI.frmLogin.resources
+F:\My stuff\Projects\Clinic_System\obj\Debug\Clinic_System.UI.frmPatients.resources
