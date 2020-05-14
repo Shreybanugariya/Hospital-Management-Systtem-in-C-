@@ -13,4 +13,5 @@ If you want to run you will need as username, password and use type
 username : Dr.Shrey
 password: shrey123
 usertype: Admin
+Only AdminDashboard is provided with the feature to ADD new user.
 Try this to get login in into Admin Dashboard. 
